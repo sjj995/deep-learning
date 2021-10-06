@@ -314,10 +314,7 @@ imShow('predictions.jpg')
 imShow('predictions.jpg')
 ```
 
-![res3.png](%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A2%20-%20object_detection%2028386f10affd40089a26701e287436b3/res3.png)
-
-![res1.png](%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A2%20-%20object_detection%2028386f10affd40089a26701e287436b3/res1.png)
-
-![res2.png](%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A2%20-%20object_detection%2028386f10affd40089a26701e287436b3/res2.png)
-
-![res4.png](%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A2%20-%20object_detection%2028386f10affd40089a26701e287436b3/res4.png)
+![res3](https://user-images.githubusercontent.com/54494622/136242220-41519299-a8a5-47c2-b180-f67e9bcc0162.png)
+![res1](https://user-images.githubusercontent.com/54494622/136242202-a4f71918-e4a6-4690-b51a-be39c965d6c6.png)
+![res2](https://user-images.githubusercontent.com/54494622/136242213-2c7f03a2-3391-43fa-9cd3-4c2f82ed9e25.png)
+![res4](https://user-images.githubusercontent.com/54494622/136242223-9d45198QZ7-dc17-43e4-9c6d-016ecf1620e7.png)
